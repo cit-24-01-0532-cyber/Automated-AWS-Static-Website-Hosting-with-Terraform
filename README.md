@@ -1,0 +1,1 @@
+# Automated-AWS-Static-Website-Hosting-with-Terraform
