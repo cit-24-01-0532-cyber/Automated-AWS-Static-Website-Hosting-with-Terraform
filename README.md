@@ -18,3 +18,9 @@ The project follows a modular Terraform structure:
 - `variables.tf`: Manages environment variables.
 - `outputs.tf`: Outputs the live website URL.
 
+Screenshort
+ https://github.com/cit-24-01-0532-cyber/Automated-AWS-Static-Website-Hosting-with-Terraform/blob/main/Screenshot%202026-05-17%20134757.png
+ https://github.com/cit-24-01-0532-cyber/Automated-AWS-Static-Website-Hosting-with-Terraform/blob/main/Screenshot%202026-05-17%20135029.png
+ https://github.com/cit-24-01-0532-cyber/Automated-AWS-Static-Website-Hosting-with-Terraform/blob/main/Screenshot%202026-05-17%20135036.png
+ https://github.com/cit-24-01-0532-cyber/Automated-AWS-Static-Website-Hosting-with-Terraform/blob/main/Screenshot%202026-05-17%20135043.png
+ https://github.com/cit-24-01-0532-cyber/Automated-AWS-Static-Website-Hosting-with-Terraform/blob/main/Screenshot%202026-05-17%20135136.png
